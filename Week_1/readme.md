@@ -22,7 +22,16 @@ git rm
 git push origin master
 
 HTML Tags
-<h1> This is a Header 1 </h1>
-<p> Lorem ipsum </p>
-<p> more more more </p>
-<h2> This is a Header 2 </h2>
+!doctype HTML
+head
+body
+h1, h2, h3, etc = header
+p =  paragraph
+href = hypertext reference
+ol = ordered list
+ul = unordered list
+li = list item
+a = anchor
+em = emphasis/italic
+strong = bold
+img src = image source
