@@ -35,3 +35,8 @@ a = anchor
 em = emphasis/italic
 strong = bold
 img src = image source
+
+CSS types
+In-line
+Embedded
+External
